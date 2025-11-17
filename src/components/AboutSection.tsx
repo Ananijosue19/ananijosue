@@ -13,7 +13,7 @@ export function AboutSection() {
           <div className="flex-1">
             <div className="w-full max-w-[400px] mx-auto aspect-square rounded-2xl overflow-hidden border-2 border-[#00ADB5]/30">
               <ImageWithFallback
-                src="/image/profil.png"
+                src="./image/profil.png"
                 alt="About Josuedex"
                 className="w-full h-full object-cover"
               />
