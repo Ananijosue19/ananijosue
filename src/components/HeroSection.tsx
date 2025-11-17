@@ -38,7 +38,7 @@ export function HeroSection() {
           <div className="relative">
             <div className="w-[400px] h-[400px] rounded-full overflow-hidden border-4 border-[#00ADB5] shadow-[0_0_50px_rgba(0,173,181,0.3)]">
               <ImageWithFallback
-                src="/image/imgUn.webp"
+                src="./image/imgUn.webp"
                 alt="Josuedex Profile"
                 className="w-full h-full object-cover"
               />
